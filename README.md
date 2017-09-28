@@ -1,4 +1,4 @@
-# Meetups de AsturiasHacking
+# Actividades de AsturiasHacking
 
 ## Finalidad de este repositorio
 
@@ -12,7 +12,7 @@ Este repositorio funciona a modo de _call for papers_ de cualquier evento de tec
 
 La comunidad AsturiasHacking se rige por un código de conducta que es de obligado cumplimiento por parte de miembros, organizadores y asistentes. El código de conducta está recogido en otro repositorio que aparecerá enlazado en este mismo epígrafe.
 
-## Meetups pasados
+## Actividades anteriores
 
 * [29/06/2017 - **Lean Coffee sobre front-end**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/240780072)
 
