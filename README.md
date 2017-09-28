@@ -10,7 +10,7 @@ Este repositorio funciona a modo de _call for papers_ de cualquier evento de tec
 
 ## Código de conducta
 
-La comunidad AsturiasHacking se rige por un código de conducta que es de obligado cumplimiento por parte de miembros, organizadores y asistentes. El código de conducta está recogido en otro repositorio que aparecerá enlazado en este mismo epígrafe.
+La comunidad AsturiasHacking se rige por un [código de conducta](https://github.com/asturiashacking/core/blob/master/coc/CODE_OF_CONDUCT.md) que es de obligado cumplimiento por parte de miembros, organizadores y asistentes.
 
 ## Actividades anteriores
 
