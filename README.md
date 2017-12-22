@@ -14,6 +14,8 @@ La comunidad AsturiasHacking se rige por un [código de conducta](https://github
 
 ## Actividades anteriores
 
+* [21/11/2017 - **La hora de la herramienta con AsturiasHacking**](https://www.meetup.com/es-ES/AsturiasHacking/events/245558292/)
+
 * [18/11/2017 - **Asturias Global Day Of Code Retreat 2017**](https://www.meetup.com/AsturiasHacking/events/244978487/)
 
 * [07/11/2017 - **Charla + Taller by @dcarral**](https://www.meetup.com/AsturiasHacking/events/244424657/)
