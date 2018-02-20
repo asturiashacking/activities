@@ -14,6 +14,8 @@ La comunidad AsturiasHacking se rige por un [código de conducta](https://github
 
 ## Actividades anteriores
 
+* [25/01/2018 - **Programas que se entienden a sí mismos. Metaprogramación en el siglo XXI.**](https://www.meetup.com/es-ES/AsturiasHacking/events/246305236/)
+
 * [21/11/2017 - **La hora de la herramienta con AsturiasHacking**](https://www.meetup.com/es-ES/AsturiasHacking/events/245558292/)
 
 * [18/11/2017 - **Asturias Global Day Of Code Retreat 2017**](https://www.meetup.com/AsturiasHacking/events/244978487/)
