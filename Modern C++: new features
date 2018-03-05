@@ -1,0 +1,6 @@
+En el año 2011 se aprovó el nuevo estándar de C++ (el anterior era del 2003), y se alcanzó el compromiso de aprovar revisiones
+cada trea años, de ahí que tengamos las versiones 2014, la reciente 2017 y la próxima para el 2020.
+Estamos intentando dotar al lenguaje de algunas de las capacidades que tienen otros lenguajes más modernos, sin perder la
+esencia y las ventajas que ya tiene.
+Haré una recapitulación de las nuevas capacidades del lenguaje. Son muchas, asi que haré referencia a las más importantes
+(en mi opinión).
