@@ -14,6 +14,8 @@ La comunidad AsturiasHacking se rige por un [código de conducta](https://github
 
 ## Actividades anteriores
 
+* [17/04/2018 - **Lenguajes de programación modernos: lambdas, futures y metaprogramación**](https://www.meetup.com/es-ES/AsturiasHacking/events/249101826/)
+
 * [05/04/2018 - **La hora de la herramienta con AsturiasHacking (vol. 2)**](https://www.meetup.com/AsturiasHacking/events/249095656/)
 
 * [01/03/2018 - **Mesa Redonda: reconversión al sector TIC**](https://www.meetup.com/es-ES/AsturiasHacking/events/247829899/)
