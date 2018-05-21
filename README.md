@@ -14,6 +14,8 @@ La comunidad AsturiasHacking se rige por un [código de conducta](https://github
 
 ## Actividades anteriores
 
+* [18/05/2018 - **Design-first en el desarrollo de APIs**](https://www.meetup.com/es-ES/AsturiasHacking/events/249100549/)
+
 * [03/05/2018 - **OpenSource Build & Deployment System para OpenShift & Kubernetes**](https://www.meetup.com/AsturiasHacking/events/249097148/)
 
 * [17/04/2018 - **Lenguajes de programación modernos: lambdas, futures y metaprogramación**](https://www.meetup.com/es-ES/AsturiasHacking/events/249101826/)
