@@ -1,5 +1,17 @@
 # Actividades de AsturiasHacking
 
+---
+
+<p align="center">
+  <b>
+    ¿Quieres proponer una charla, taller o mesa redonda? <a href="https://github.com/asturiashacking/activities/issues/new">Pulsa aquí para crear una nueva actividad</a>
+  </b>
+</p>
+
+
+
+---
+
 ## Finalidad de este repositorio
 
 En este repositorio se podrán proponer, mediante issues, posibes charlas, talleres, hackathones, etc. que se puedan desarrollar en la comunidad AsturiasHacking para tener un repositorio de propuestas de cara a futuros meetups.
