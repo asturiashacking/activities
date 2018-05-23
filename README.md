@@ -1,10 +1,14 @@
-# Actividades de AsturiasHacking
+---
 
 <p align="center">
   <b>
     ¿Quieres proponer una charla, taller o mesa redonda? <a href="https://github.com/asturiashacking/activities/issues/new">Pulsa aquí para crear una nueva actividad</a>
   </b>
 </p>
+
+---
+
+# Actividades de AsturiasHacking
 
 ## Finalidad de este repositorio
 
