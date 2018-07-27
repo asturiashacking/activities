@@ -1,6 +1,6 @@
 # Términos y condiciones
 
-Con el objetivo de crear una Comunidad lo más inclusiva posible y limitar al máximo comportamientos nocivos que vayan en contra de nuestro [código de conducta][code of conduct], este documento describe una serie de condiciones orientadas a personas que deseen proponer, impartir, facilitar u organizar cualquier actividad bajo el paraguas de AsturiasHacking y que deben ser de obligado cumplimiento durante el trascurso de la misma:
+Con el objetivo de crear una comunidad lo más inclusiva posible y limitar al máximo comportamientos nocivos que vayan en contra de nuestro [código de conducta][code of conduct], este documento describe una serie de condiciones orientadas a personas que deseen proponer, impartir, facilitar u organizar cualquier actividad bajo el paraguas de AsturiasHacking y que deben ser de obligado cumplimiento durante el transcurso de la misma:
 
 - Cumplir con todos los puntos del [código de conducta de la comunidad][code of conduct].
 - Utilizar un lenguaje lo más inclusivo posible (por ejemplo, limitando siempre que sea posible el uso continuado de pronombres masculinos).
@@ -13,6 +13,6 @@ Con el objetivo de crear una Comunidad lo más inclusiva posible y limitar al m�
 
 ## Aplicación
 
-Incumplir cualquiera de los puntos anteriores puede llevar consigo la anulación de la actividad por parte de la organización o el cese de la misma durante su propio trascurso.
+Incumplir cualquiera de los puntos anteriores puede llevar consigo la anulación de la actividad por parte de la organización o el cese de la misma durante su propio transcurso.
 
 [code of conduct]: https://github.com/asturiashacking/core/blob/master/coc/CODE_OF_CONDUCT.md

@@ -10,7 +10,7 @@
 
 ## Nivel
 
-> ¿Qué conocimientos sobre la materia se necesitan para acudir a la actividad? Ayuda a los asistentes a conocer de antemano todos los detalles
+> ¿Qué conocimientos sobre la materia se necesitan para acudir a la actividad? Ayuda a la audiencia a conocer de antemano todos los detalles
 
 ## Información adicional
 
@@ -18,7 +18,7 @@
 
 ## Sobre mí
 
-> ¡Ayúdanos a conocerte! Aprovecha esta sección para explicar quién eres, tu experiencia y cualquier otra información relevante para la audiencia
+> ¡Ayúdanos a conocerte! Aprovecha esta sección para explicar quién eres, tu experiencia y cualquier otra información relevante para la comunidad
 
 ---
 
