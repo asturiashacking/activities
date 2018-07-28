@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i1.wp.com/diversitycharter.org/wp-content/uploads/2016/05/supportingdiversity_small2.png?resize=300%2C104">
+</p>
+
 ---
 
 <p align="center">
