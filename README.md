@@ -22,62 +22,66 @@ Este repositorio funciona a modo de _call for papers_ de cualquier evento de tec
 
 La comunidad AsturiasHacking se rige por un [código de conducta](https://github.com/asturiashacking/core/blob/master/coc/CODE_OF_CONDUCT.md) que es de obligado cumplimiento por parte de miembros, organizadores y asistentes.
 
+## Términos y condiciones
+
+Relacionado con el punto anterior, y para continuar con los esfuerzos por construir una comunidad mejor, existen [una serie de puntos de obligado cumplimiento](TERMS.md) por parte de los facilitadores, speakers u organizadores de cada actividad.
+
 ## Actividades anteriores
 
-* [19/07/2018 - **Introducción a GraphQL**](https://www.meetup.com/es-ES/AsturiasHacking/events/251636743/)
+- [19/07/2018 - **Introducción a GraphQL**](https://www.meetup.com/es-ES/AsturiasHacking/events/251636743/)
 
-* [28/06/2018 - **Introducción al front mediante "Holas Mundos"**](https://www.meetup.com/AsturiasHacking/events/251636681/)
+- [28/06/2018 - **Introducción al front mediante "Holas Mundos"**](https://www.meetup.com/AsturiasHacking/events/251636681/)
 
-* [18/05/2018 - **Design-first en el desarrollo de APIs**](https://www.meetup.com/es-ES/AsturiasHacking/events/249100549/)
+- [18/05/2018 - **Design-first en el desarrollo de APIs**](https://www.meetup.com/es-ES/AsturiasHacking/events/249100549/)
 
-* [03/05/2018 - **OpenSource Build & Deployment System para OpenShift & Kubernetes**](https://www.meetup.com/AsturiasHacking/events/249097148/)
+- [03/05/2018 - **OpenSource Build & Deployment System para OpenShift & Kubernetes**](https://www.meetup.com/AsturiasHacking/events/249097148/)
 
-* [17/04/2018 - **Lenguajes de programación modernos: lambdas, futures y metaprogramación**](https://www.meetup.com/es-ES/AsturiasHacking/events/249101826/)
+- [17/04/2018 - **Lenguajes de programación modernos: lambdas, futures y metaprogramación**](https://www.meetup.com/es-ES/AsturiasHacking/events/249101826/)
 
-* [05/04/2018 - **La hora de la herramienta con AsturiasHacking (vol. 2)**](https://www.meetup.com/AsturiasHacking/events/249095656/)
+- [05/04/2018 - **La hora de la herramienta con AsturiasHacking (vol. 2)**](https://www.meetup.com/AsturiasHacking/events/249095656/)
 
-* [01/03/2018 - **Mesa Redonda: reconversión al sector TIC**](https://www.meetup.com/es-ES/AsturiasHacking/events/247829899/)
+- [01/03/2018 - **Mesa Redonda: reconversión al sector TIC**](https://www.meetup.com/es-ES/AsturiasHacking/events/247829899/)
 
-* [25/01/2018 - **Programas que se entienden a sí mismos. Metaprogramación en el siglo XXI.**](https://www.meetup.com/es-ES/AsturiasHacking/events/246305236/)
+- [25/01/2018 - **Programas que se entienden a sí mismos. Metaprogramación en el siglo XXI.**](https://www.meetup.com/es-ES/AsturiasHacking/events/246305236/)
 
-* [21/11/2017 - **La hora de la herramienta con AsturiasHacking**](https://www.meetup.com/es-ES/AsturiasHacking/events/245558292/)
+- [21/11/2017 - **La hora de la herramienta con AsturiasHacking**](https://www.meetup.com/es-ES/AsturiasHacking/events/245558292/)
 
-* [18/11/2017 - **Asturias Global Day Of Code Retreat 2017**](https://www.meetup.com/AsturiasHacking/events/244978487/)
+- [18/11/2017 - **Asturias Global Day Of Code Retreat 2017**](https://www.meetup.com/AsturiasHacking/events/244978487/)
 
-* [07/11/2017 - **Charla + Taller by @dcarral**](https://www.meetup.com/AsturiasHacking/events/244424657/)
+- [07/11/2017 - **Charla + Taller by @dcarral**](https://www.meetup.com/AsturiasHacking/events/244424657/)
 
-* [29/06/2017 - **Lean Coffee sobre front-end**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/240780072)
+- [29/06/2017 - **Lean Coffee sobre front-end**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/240780072)
 
-* [18/05/2017 - **La pull request perfecta**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/239636532)
+- [18/05/2017 - **La pull request perfecta**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/239636532)
 
-* [12/05/2017 - **Cómo terminar los proyectos personales que se empiezan... ¡o no!**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/238462152)
+- [12/05/2017 - **Cómo terminar los proyectos personales que se empiezan... ¡o no!**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/238462152)
 
-* [27/04/2017 - **Introducción al desarrollo de extensiones para navegadores**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/239126783)
+- [27/04/2017 - **Introducción al desarrollo de extensiones para navegadores**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/239126783)
 
-* [23/03/2017 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/237659359)
+- [23/03/2017 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/237659359)
 
-* [23/02/2017 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/236520299)
+- [23/02/2017 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/236520299)
 
-* [19/01/2017 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/236520293)
+- [19/01/2017 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/236520293)
 
-* [04/01/2017 - **AsturiasHacking presents "DevOps Day"**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/236190595)
+- [04/01/2017 - **AsturiasHacking presents "DevOps Day"**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/236190595)
 
-* [15/12/2016 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/236199260)
+- [15/12/2016 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/236199260)
 
-* [24/11/2016 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/235322389)
+- [24/11/2016 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/235322389)
 
-* [27/10/2016 - **Coding Dojo**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/234663955)
+- [27/10/2016 - **Coding Dojo**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/234663955)
 
-* [29/09/2016 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/234237502)
+- [29/09/2016 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/234237502)
 
-* [09/06/2016 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/231331530)
+- [09/06/2016 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/231331530)
 
-* [05/05/2016 - **Software Libre: Visión Global y Comunidades OpenSource**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/230588913)
+- [05/05/2016 - **Software Libre: Visión Global y Comunidades OpenSource**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/230588913)
 
-* [21/04/2016 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/230113904)
+- [21/04/2016 - **Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/230113904)
 
-* [07/04/2016 - **Web Testing mantenible con Selenium**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/229575681)
+- [07/04/2016 - **Web Testing mantenible con Selenium**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/229575681)
 
-* [10/03/2016 - **Civic Hacking && Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/228899897)
+- [10/03/2016 - **Civic Hacking && Lean Coffee**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/228899897)
 
-* [04/02/2016 - **Reunión de presentación**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/228234360)
+- [04/02/2016 - **Reunión de presentación**](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/228234360)
