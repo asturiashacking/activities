@@ -25,4 +25,4 @@
 Todas nuestras actividades están obligadas a respetar nuestro [código de conducta][code of conduct] y cumplir el conjunto de [términos y condiciones][terms].
 
 [code of conduct]: https://github.com/asturiashacking/core/blob/master/coc/CODE_OF_CONDUCT.md
-[terms]: TERMS.md
+[terms]: https://github.com/asturiashacking/activities/blob/master/TERMS.md
