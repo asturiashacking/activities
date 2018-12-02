@@ -32,6 +32,10 @@ Relacionado con el punto anterior, y para continuar con los esfuerzos por constr
 
 ## Actividades anteriores
 
+- [21/11/2018 - **Primeros pasos en Contract Testing con Pact**](https://www.meetup.com/AsturiasHacking/events/255366023/)
+
+- [17/11/2018 - **Asturias Global Day Of Coderetreat 2018**](https://www.meetup.com/AsturiasHacking/events/254343807/)
+
 - [19/07/2018 - **Introducción a GraphQL**](https://www.meetup.com/es-ES/AsturiasHacking/events/251636743/)
 
 - [28/06/2018 - **Introducción al front mediante "Holas Mundos"**](https://www.meetup.com/AsturiasHacking/events/251636681/)
