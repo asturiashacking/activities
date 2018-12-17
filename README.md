@@ -32,6 +32,8 @@ Relacionado con el punto anterior, y para continuar con los esfuerzos por constr
 
 ## Actividades anteriores
 
+- [13/12/2018 - **Aplicaciones web interactivas con Shiny + Keep calm & do a great presentation**](https://www.meetup.com/AsturiasHacking/events/255366223/)
+
 - [21/11/2018 - **Primeros pasos en Contract Testing con Pact**](https://www.meetup.com/AsturiasHacking/events/255366023/)
 
 - [17/11/2018 - **Asturias Global Day Of Coderetreat 2018**](https://www.meetup.com/AsturiasHacking/events/254343807/)
