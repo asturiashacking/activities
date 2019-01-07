@@ -6,11 +6,11 @@
 
 ## Descripción
 
-> Añade una descripción sobre la actividad. Es importante reflejar la motivación y el alcance de la misma. Cuanto más detallada sea la descripción, mayores serán las oportunidades de despertar la curiosidad de la comunidad
+> Añade una descripción sobre la actividad. Es importante reflejar la **motivación, alcance y duración** de la misma. Cuanto más detallada sea la descripción, mayores serán las oportunidades de despertar la curiosidad de la comunidad. Puedes echar un ojo a nuestro documento de [términos y condiciones][terms] para obtener más información sobre los límites de tiempo de los que disponemos
 
 ## Nivel
 
-> ¿Qué conocimientos sobre la materia se necesitan para acudir a la actividad? Ayuda a la audiencia a conocer de antemano todos los detalles
+> ¿Qué conocimientos sobre la materia se necesitan para acudir a la actividad? ¿A qué audiencia estaría destinada?
 
 ## Información adicional
 
