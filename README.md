@@ -12,11 +12,7 @@
 
 ---
 
-# Actividades de AsturiasHacking
-
-## Finalidad de este repositorio
-
-En este repositorio se podrán proponer, mediante issues, posibes charlas, talleres, hackathones, etc. que se puedan desarrollar en la comunidad AsturiasHacking para tener un repositorio de propuestas de cara a futuros meetups.
+En este repositorio se podrán proponer, mediante issues, posibles charlas, talleres, hackathones, etc. que se puedan desarrollar en la comunidad AsturiasHacking para tener un repositorio de propuestas de cara a futuros [*meetups*](https://www.meetup.com/AsturiasHacking/).
 
 Si tienes alguna charla que te apetezca dar, algún taller que te apetezca organizar, o alguna otra actividad que creas que pueda ser enriquecedora para la comunidad, crea una issue y quizá entre todos podamos darle forma y fecha a la idea.
 
@@ -28,7 +24,7 @@ La comunidad AsturiasHacking se rige por un [código de conducta](https://github
 
 ## Términos y condiciones
 
-Relacionado con el punto anterior, y para continuar con los esfuerzos por construir una comunidad mejor, existen [una serie de puntos de obligado cumplimiento](TERMS.md) por parte de los facilitadores, speakers u organizadores de cada actividad.
+Relacionado con el punto anterior, y para continuar con los esfuerzos por construir una comunidad mejor, existen [una serie de puntos de obligado cumplimiento](TERMS.md) por parte de los facilitadores, *speakers* u organizadores de cada actividad.
 
 ## Actividades anteriores
 
