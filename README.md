@@ -30,6 +30,8 @@ Relacionado con el punto anterior, y para continuar con los esfuerzos por constr
 
 | Fecha | Título | Impartida por | Enlaces |
 | ----- | ------ | ------------- | ------- |
+| {04-05}/04/2019 | Taller de Introducción a TDD | [Sergio](https://twitter.com/codecoolture) | [Meetup](https://www.meetup.com/AsturiasHacking/events/258852355/) |
+| 28/03/2019 | Por qué NO vas a usar C++ en tu próximo proyecto | [Jose Caicoya](https://twitter.com/jose_caicoya) | [Meetup](https://www.meetup.com/AsturiasHacking/events/257856665/) |
 | 14/02/2019 | Mujer y Niña en la Tecnología | [Azahara](https://twitter.com/azahara_fergui), [Julia](https://twitter.com/las_tra), [Carla](https://twitter.com/carlaalvarez8_), [Leticia](https://www.linkedin.com/in/leticia-gutierrez-sanchez-83a09413b/), [Susana](https://www.linkedin.com/in/susanagonzalezcacheiro/) y [María](https://www.linkedin.com/in/mar%C3%ADa-hern%C3%A1ndez-mart%C3%ADnez-95a58615b/) | [Meetup](https://www.meetup.com/AsturiasHacking/events/257929981/) |
 | 13/12/2018 | Aplicaciones web interactivas con Shiny | [Julia Lastra](https://twitter.com/las_tra) | [Meetup](https://www.meetup.com/AsturiasHacking/events/255366223/) |
 | 13/12/2018 | Keep calm & do a great presentation | [Laura Lacarra](https://twitter.com/lauralacarra) | [Meetup](https://www.meetup.com/AsturiasHacking/events/255366223/) |
