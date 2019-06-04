@@ -30,6 +30,7 @@ Relacionado con el punto anterior, y para continuar con los esfuerzos por constr
 
 | Fecha | Título | Impartida por | Enlaces |
 | ----- | ------ | ------------- | ------- |
+| 30/05/2019 | Sesgos cognitivos en las pruebas. El lado más humano del testing | [Fran Moreno](https://twitter.com/morvader) | [Meetup](https://www.meetup.com/AsturiasHacking/events/258122372/) |
 | 25/04/2019 | Desarrollo de formularios web con React | [David Rodríguez](https://twitter.com/mcdave) | [Meetup](https://www.meetup.com/AsturiasHacking/events/257791771/) |
 | {04-05}/04/2019 | Taller de Introducción a TDD | [Sergio](https://twitter.com/codecoolture) | [Meetup](https://www.meetup.com/AsturiasHacking/events/258852355/) |
 | 28/03/2019 | Por qué NO vas a usar C++ en tu próximo proyecto | [Jose Caicoya](https://twitter.com/jose_caicoya) | [Meetup](https://www.meetup.com/AsturiasHacking/events/257856665/) |
