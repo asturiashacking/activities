@@ -30,6 +30,7 @@ Relacionado con el punto anterior, y para continuar con los esfuerzos por constr
 
 | Fecha | Título | Impartida por | Enlaces |
 | ----- | ------ | ------------- | ------- |
+| 28/11/2019 | Coding Dojo | - | [Meetup](https://www.meetup.com/AsturiasHacking/events/266429287/) |
 | 29/10/2019 | Introducción a Kotlin |[Lluis Toyos](https://twitter.com/tolbier) | [Meetup](https://www.meetup.com/AsturiasHacking/events/265777083/) |
 | 28/09/2019 | Open Space Technology | - | [Meetup](https://www.meetup.com/AsturiasHacking/events/263548880/) |
 | 29/06/2019 | Lean Coffee: Mejorar como desarrolladorxs | - | [Meetup](https://www.meetup.com/AsturiasHacking/events/261314917/) |
