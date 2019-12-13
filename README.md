@@ -30,6 +30,7 @@ Relacionado con el punto anterior, y para continuar con los esfuerzos por constr
 
 | Fecha | Título | Impartida por | Enlaces |
 | ----- | ------ | ------------- | ------- |
+| 12/12/2019 | Cabeceras HTTP para mejorar la seguridad de cualquier aplicación web | [Jose Manuel Redondo](https://twitter.com/The_Rounded_Man) | [Meetup](https://www.meetup.com/AsturiasHacking/events/266707816/) |
 | 28/11/2019 | Coding Dojo | - | [Meetup](https://www.meetup.com/AsturiasHacking/events/266429287/) |
 | 29/10/2019 | Introducción a Kotlin |[Lluis Toyos](https://twitter.com/tolbier) | [Meetup](https://www.meetup.com/AsturiasHacking/events/265777083/) |
 | 28/09/2019 | Open Space Technology | - | [Meetup](https://www.meetup.com/AsturiasHacking/events/263548880/) |
