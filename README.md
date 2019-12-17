@@ -31,10 +31,10 @@ Relacionado con el punto anterior, y para continuar con los esfuerzos por constr
 | Fecha | Título | Facilitada por | Enlaces |
 | ----- | ------ | ------------- | ------- |
 | 12/12/2019 | Cabeceras HTTP para mejorar la seguridad de cualquier aplicación web | [Jose Manuel Redondo](https://twitter.com/The_Rounded_Man) | [Meetup](https://www.meetup.com/AsturiasHacking/events/266707816/) |
-| 28/11/2019 | Coding Dojo | - | [Meetup](https://www.meetup.com/AsturiasHacking/events/266429287/) |
+| 28/11/2019 | Coding Dojo | [Iñaki](https://twitter.com/piedresybarro) y [Sergio](https://twitter.com/codecoolture) | [Meetup](https://www.meetup.com/AsturiasHacking/events/266429287/) |
 | 29/10/2019 | Introducción a Kotlin |[Lluis Toyos](https://twitter.com/tolbier) | [Meetup](https://www.meetup.com/AsturiasHacking/events/265777083/) |
-| 28/09/2019 | Open Space Technology | - | [Meetup](https://www.meetup.com/AsturiasHacking/events/263548880/) |
-| 29/06/2019 | Lean Coffee: Mejorar como desarrolladorxs | - | [Meetup](https://www.meetup.com/AsturiasHacking/events/261314917/) |
+| 28/09/2019 | Open Space Technology | [Azahara](https://twitter.com/azahara_fergui), [Dani](https://twitter.com/dcarral) y [Sergio](https://twitter.com/codecoolture) | [Meetup](https://www.meetup.com/AsturiasHacking/events/263548880/) |
+| 29/06/2019 | Lean Coffee: Mejorar como desarrolladorxs | [Azahara](https://twitter.com/azahara_fergui) | [Meetup](https://www.meetup.com/AsturiasHacking/events/261314917/) |
 | 13/06/2019 | Edición colaborativa de textos con Swell | [Pablo Jan](https://twitter.com/pablojan) | [Meetup](https://www.meetup.com/AsturiasHacking/events/261222396/) |
 | 30/05/2019 | Sesgos cognitivos en las pruebas. El lado más humano del testing | [Fran Moreno](https://twitter.com/morvader) | [Meetup](https://www.meetup.com/AsturiasHacking/events/258122372/) |
 | 25/04/2019 | Desarrollo de formularios web con React | [David Rodríguez](https://twitter.com/mcdave) | [Meetup](https://www.meetup.com/AsturiasHacking/events/257791771/) |
