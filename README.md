@@ -28,7 +28,7 @@ Relacionado con el punto anterior, y para continuar con los esfuerzos por constr
 
 ## Actividades anteriores
 
-| Fecha | Título | Impartida por | Enlaces |
+| Fecha | Título | Facilitada por | Enlaces |
 | ----- | ------ | ------------- | ------- |
 | 12/12/2019 | Cabeceras HTTP para mejorar la seguridad de cualquier aplicación web | [Jose Manuel Redondo](https://twitter.com/The_Rounded_Man) | [Meetup](https://www.meetup.com/AsturiasHacking/events/266707816/) |
 | 28/11/2019 | Coding Dojo | - | [Meetup](https://www.meetup.com/AsturiasHacking/events/266429287/) |
