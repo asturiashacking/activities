@@ -6,10 +6,10 @@ Con el objetivo de crear una comunidad lo más inclusiva posible y limitar al m�
 - Utilizar un lenguaje lo más inclusivo posible (por ejemplo, limitando siempre que sea posible el uso continuado de pronombres masculinos).
 - Mantener una conducta profesional y respetuosa ante los asistentes que expresen sus dudas durante el transcurso de la actividad.
 - NO cambiar la orientación de la actividad sin previo aviso a la organización (que deberá validar el _nuevo_ enfoque).
-- Por defecto, las charlas durarán un máximo de 50 minutos y los talleres, 90 minutos (una hora y media). \*
+- Por defecto, las charlas durarán un máximo de 30 minutos y los talleres, 90 minutos (una hora y media). \*
 - Del mismo modo, las actividades se desarrollarán, por lo general, durante la tarde de los jueves, a partir de las 19:00 horas. \*
 
-\* Si bien desde AsturiasHacking estamos abiertos a poder adaptarnos a cada actividad, es necesario llegar a un acuerdo con la organización antes de realizar cambios en alguno de estos puntos.
+\* Desde AsturiasHacking nos adaptamos 100% al contexto de cada charla, pero es necesario llegar a un acuerdo con la organización antes de realizar cambios en alguno de estos puntos.
 
 ## Aplicación
 
