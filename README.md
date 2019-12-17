@@ -24,7 +24,7 @@ Antes de proponer cualquier actividad, te animamos a leer nuestros [términos y 
 
 ## Código de conducta
 
-AsturiasHacking se rige por un [código de conducta](https://github.com/asturiashacking/core/blob/master/coc/CODE_OF_CONDUCT.md) que es de obligado cumplimiento por parte de miembros, organizadores y asistentes. ¡No olvides echarle un vistazo antes de asistir!
+AsturiasHacking se rige por un [código de conducta](https://github.com/asturiashacking/core/blob/master/coc/CODE_OF_CONDUCT.md) que es de obligado cumplimiento por parte de todas las personas: organizadoras y asistentes. ¡No olvides echarle un vistazo antes de venir!
 
 ## Actividades anteriores
 
