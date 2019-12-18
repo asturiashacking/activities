@@ -18,13 +18,13 @@ Si tienes alguna charla que te apetezca dar, algún taller que te apetezca organ
 
 Este repositorio funciona a modo de _call for papers_ de cualquier evento de tecnología, y del mismo modo la organización se reserva la posibilidad de organizar charlas o eventos que no hayan pasado por el proceso de propuesta aquí descrito.
 
-## Código de conducta
-
-La comunidad AsturiasHacking se rige por un [código de conducta](https://github.com/asturiashacking/core/blob/master/coc/CODE_OF_CONDUCT.md) que es de obligado cumplimiento por parte de miembros, organizadores y asistentes.
-
 ## Términos y condiciones
 
-Relacionado con el punto anterior, y para continuar con los esfuerzos por construir una comunidad mejor, existen [una serie de puntos de obligado cumplimiento](TERMS.md) por parte de los facilitadores, _speakers_ u organizadores de cada actividad.
+Antes de proponer cualquier actividad, te animamos a leer nuestros [términos y condiciones](TERMS.md) (que son de obligado cumplimiento por parte de facilitadores, _speakers_ u organizadores de cada actividad). ¿Qué os podéis encontrar ahí? Pues la duración máxima de cada charla y taller, qué tipo de lenguaje utilizar a lo largo del evento y cómo gestionar cambios en la propuesta una vez agendada en el calendario de actividades.
+
+## Código de conducta
+
+AsturiasHacking se rige por un [código de conducta](https://github.com/asturiashacking/core/blob/master/coc/CODE_OF_CONDUCT.md) que es de obligado cumplimiento por parte de todas las personas: organizadoras y asistentes. ¡No olvides echarle un vistazo antes de venir!
 
 ## Actividades anteriores
 
