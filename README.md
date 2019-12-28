@@ -30,6 +30,7 @@ AsturiasHacking se rige por un [código de conducta](https://github.com/asturias
 
 | Fecha | Título | Facilitada por | Enlaces |
 | ----- | ------ | ------------- | ------- |
+| xx/xx/2020 | Bitcoin bip39,bip44 derivación de direcciones y propagación de transacciones con nodejs | [Heber](https://twitter.com/h3b3rbastidas) | [meetup](Por definir) |
 | 12/12/2019 | Cabeceras HTTP para mejorar la seguridad de cualquier aplicación web | [Jose Manuel Redondo](https://twitter.com/The_Rounded_Man) | [Meetup](https://www.meetup.com/AsturiasHacking/events/266707816/) |
 | 28/11/2019 | Coding Dojo | [Iñaki](https://twitter.com/piedresybarro) y [Sergio](https://twitter.com/codecoolture) | [Meetup](https://www.meetup.com/AsturiasHacking/events/266429287/) |
 | 29/10/2019 | Introducción a Kotlin |[Lluis Toyos](https://twitter.com/tolbier) | [Meetup](https://www.meetup.com/AsturiasHacking/events/265777083/) |
