@@ -30,6 +30,7 @@ AsturiasHacking se rige por un [código de conducta](https://github.com/asturias
 
 | Fecha | Título | Facilitada por | Enlaces |
 | ----- | ------ | ------------- | ------- |
+| 27/02/2020 |PowerPoint Karaoke| [Jonatan Menendez](https://twitter.com/jonatanmdez) | [Meetup](https://www.meetup.com/AsturiasHacking/events/267162804/) |
 | 11/02/2020 |Nuestras referentes en STEM | [Azahara Fernández](https://twitter.com/azahara_fergui) | [Meetup](https://www.meetup.com/AsturiasHacking/events/267163089/) |
 | 16/01/2020 | De la orientación de objetos a la programación funcional:un viaje alucinante | [Iñaki Quesada](https://twitter.com/piedresybarro) | [Meetup](https://www.meetup.com/AsturiasHacking/events/267162436/) |
 | 12/12/2019 | Cabeceras HTTP para mejorar la seguridad de cualquier aplicación web | [Jose Manuel Redondo](https://twitter.com/The_Rounded_Man) | [Meetup](https://www.meetup.com/AsturiasHacking/events/266707816/) |
