@@ -30,6 +30,7 @@ AsturiasHacking se rige por un [código de conducta](https://github.com/asturias
 
 | Fecha | Título | Facilitada por | Enlaces |
 | ----- | ------ | ------------- | ------- |
+| 11/06/2020 | Kata Online | [Jonatan Menendez](https://twitter.com/jonatanmdez), [Azahara Fernández](https://twitter.com/azahara_fergui)| [Meetup](https://www.meetup.com/es-ES/AsturiasHacking/events/270990419/)
 | 28/05/2020 |Sesión doble: Bioinformática y trabajo en remoto.| [Carlota Carbajo Moral](https://www.instagram.com/carcarmor/?hl=es), [Roberto Riesgo](https://twitter.com/JustTypingCode)| [Meetup](https://www.meetup.com/AsturiasHacking/events/270606098/) |
 | 27/02/2020 |PowerPoint Karaoke| [Jonatan Menendez](https://twitter.com/jonatanmdez) | [Meetup](https://www.meetup.com/AsturiasHacking/events/267162804/) |
 | 11/02/2020 |Nuestras referentes en STEM | [Azahara Fernández](https://twitter.com/azahara_fergui) | [Meetup](https://www.meetup.com/AsturiasHacking/events/267163089/) |
@@ -77,4 +78,4 @@ AsturiasHacking se rige por un [código de conducta](https://github.com/asturias
 | 21/04/2016 | Lean Coffee | - | [Meetup](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/230113904) |
 | 07/04/2016 | Web Testing mantenible con Selenium | [Francisco Moreno](https://twitter.com/morvader) | [Meetup](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/229575681) |
 | 10/03/2016 | Civic Hacking && Lean Coffee | - | [Meetup](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/228899897) |
-| 04/02/2016 | Reunión de presentación | - | [Meetu](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/228234360) |
+| 04/02/2016 | Reunión de presentación | - | [Meetup](https://www.meetup.com/es-ES/preview/AsturiasHacking/events/228234360) |
