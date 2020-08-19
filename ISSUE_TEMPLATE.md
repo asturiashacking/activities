@@ -26,3 +26,5 @@ Todas nuestras actividades están obligadas a respetar nuestro [código de condu
 
 [code of conduct]: https://github.com/asturiashacking/core/blob/main/coc/CODE_OF_CONDUCT.md
 [terms]: https://github.com/asturiashacking/activities/blob/main/TERMS.md
+
+Por último, si no te importa, envíanos un email con una dirección de contacto a AsturiasHacking para que la comunicación a la hora de organizar la charla sea mas sencilla :-)
