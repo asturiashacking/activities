@@ -30,6 +30,8 @@ AsturiasHacking se rige por un [código de conducta](https://github.com/asturias
 
 | Fecha | Título | Facilitada por | Enlaces |
 | ----- | ------ | ------------- | ------- |
+| 25/06/2020 |¡Hablemos de pelis y estereotipos!| [Azahara Fernández](https://twitter.com/azahara_fergui)| [Meetup](https://www.meetup.com/AsturiasHacking/events/270954719/) |
+| 11/06/2020 |kata online.| [Jonatan Menendez](https://twitter.com/jonatanmdez) | [Meetup](https://www.meetup.com/AsturiasHacking/events/270990419/) |
 | 28/05/2020 |Sesión doble: Bioinformática y trabajo en remoto.| [Carlota Carbajo Moral](https://www.instagram.com/carcarmor/?hl=es), [Roberto Riesgo](https://twitter.com/JustTypingCode)| [Meetup](https://www.meetup.com/AsturiasHacking/events/270606098/) |
 | 27/02/2020 |PowerPoint Karaoke| [Jonatan Menendez](https://twitter.com/jonatanmdez) | [Meetup](https://www.meetup.com/AsturiasHacking/events/267162804/) |
 | 11/02/2020 |Nuestras referentes en STEM | [Azahara Fernández](https://twitter.com/azahara_fergui) | [Meetup](https://www.meetup.com/AsturiasHacking/events/267163089/) |
