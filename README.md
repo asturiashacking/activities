@@ -30,6 +30,7 @@ AsturiasHacking se rige por un [código de conducta](https://github.com/asturias
 
 | Fecha | Título | Facilitada por | Enlaces |
 | ----- | ------ | ------------- | ------- |
+| 26/09/2020 |Doble combo: Hacking tecnologías NFC y ¿qué camino elegir?| [Jonathan Barbón](https://twitter.com/jony8mb)| [Meetup](https://www.meetup.com/AsturiasHacking/events/273009097/) |
 | 25/06/2020 |¡Hablemos de pelis y estereotipos!| [Azahara Fernández](https://twitter.com/azahara_fergui)| [Meetup](https://www.meetup.com/AsturiasHacking/events/270954719/) |
 | 11/06/2020 |kata online.| [Jonatan Menendez](https://twitter.com/jonatanmdez) | [Meetup](https://www.meetup.com/AsturiasHacking/events/270990419/) |
 | 28/05/2020 |Sesión doble: Bioinformática y trabajo en remoto.| [Carlota Carbajo Moral](https://www.instagram.com/carcarmor/?hl=es), [Roberto Riesgo](https://twitter.com/JustTypingCode)| [Meetup](https://www.meetup.com/AsturiasHacking/events/270606098/) |
