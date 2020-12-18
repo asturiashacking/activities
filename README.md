@@ -30,6 +30,7 @@ AsturiasHacking se rige por un [código de conducta](https://github.com/asturias
 
 | Fecha | Título | Facilitada por | Enlaces |
 | ----- | ------ | ------------- | ------- |
+| 17/12/2020 |Doble combo: Creación de una skill Alexa + dinámica navideña|[Roberto Riesgo](https://twitter.com/JustTypingCode) | [Meetup](https://www.meetup.com/AsturiasHacking/events/273665744/) |
 | 26/11/2020 |Lean coffee, ¡charlemos!|[Azahara Fernández](https://twitter.com/azahara_fergui) | [Meetup](https://www.meetup.com/AsturiasHacking/events/274125732/) |
 | 23/10/2020 |Doble: creando una galería de fotos accesible y dinámica + Lluvia de recursos.| [Juanma Rodríguez](https://www.linkedin.com/in/juan-manuel-rodriguez-perez-25512733/)| [Meetup](https://www.meetup.com/es-ES/AsturiasHacking/events/273523363/) |
 | 26/09/2020 |Doble combo: Hacking tecnologías NFC y ¿qué camino elegir?| [Jonathan Barbón](https://twitter.com/jony8mb)| [Meetup](https://www.meetup.com/AsturiasHacking/events/273009097/) |
