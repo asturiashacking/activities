@@ -6,17 +6,17 @@
 
 <p align="center">
   <b>
-    ¿Quieres proponer una charla, taller o mesa redonda? <a href="https://github.com/asturiashacking/activities/issues/new">Pulsa aquí para crear una nueva actividad</a>
+    ¿Quieres proponer una charla, taller o mesa redonda? <a href="https://saraos.tech/">Nos hemos mudado a saraos.tech, cuentanosla aquí</a>
   </b>
 </p>
 
 ---
 
-En este repositorio se podrán proponer, mediante issues, posibles charlas, talleres, hackathones, etc. que se puedan desarrollar en la comunidad AsturiasHacking para tener un repositorio de propuestas de cara a futuros [_meetups_](https://www.meetup.com/AsturiasHacking/).
+En <a href="https://saraos.tech/">saraos.tech</a> se podrán proponer, posibles charlas, talleres, hackathones, etc. que se puedan desarrollar en la comunidad AsturiasHacking para tener un repositorio de propuestas de cara a futuros [_meetups_](https://www.meetup.com/AsturiasHacking/).
 
-Si tienes alguna charla que te apetezca dar, algún taller que te apetezca organizar, o alguna otra actividad que creas que pueda ser enriquecedora para la comunidad, crea una issue y quizá entre todos podamos darle forma y fecha a la idea.
+Si tienes alguna charla que te apetezca dar, algún taller que te apetezca organizar, o alguna otra actividad que creas que pueda ser enriquecedora para la comunidad, crea una propuesta y quizá entre todos podamos darle forma y fecha a la idea.
 
-Este repositorio funciona a modo de _call for papers_ de cualquier evento de tecnología, y del mismo modo la organización se reserva la posibilidad de organizar charlas o eventos que no hayan pasado por el proceso de propuesta aquí descrito.
+El presente repositorio pasa a quedar cerrado para nuevas propuestas. Esperamos seguir recibiéndolas a través de la nueva plataforma.
 
 ## Términos y condiciones
 
